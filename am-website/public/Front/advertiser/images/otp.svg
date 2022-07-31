@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.086" height="21.03" viewBox="0 0 20.086 21.03">
+  <g id="otp" transform="translate(-873 -373.379)">
+    <g id="files" transform="translate(828 373.379)">
+      <g id="Group_4863" data-name="Group 4863" transform="translate(48 0)">
+        <path id="Path_2732" data-name="Path 2732" d="M64.9,4.133,60.953.19A.657.657,0,0,0,60.486,0H49.972A1.972,1.972,0,0,0,48,1.971V19.058a1.972,1.972,0,0,0,1.972,1.972H63.115a1.971,1.971,0,0,0,1.972-1.972V4.6A.657.657,0,0,0,64.9,4.133ZM63.772,19.058a.657.657,0,0,1-.657.657H49.972a.657.657,0,0,1-.657-.657V1.971a.657.657,0,0,1,.657-.657h9.858V3.943a1.314,1.314,0,0,0,1.314,1.314h2.629Z" transform="translate(-48 0)" fill="#6d08df"/>
+      </g>
+    </g>
+    <g id="Rectangle_1602" data-name="Rectangle 1602" transform="translate(873 383)" fill="#fff" stroke="#6d08df" stroke-width="1.5">
+      <rect width="15" height="9" rx="2" stroke="none"/>
+      <rect x="0.75" y="0.75" width="13.5" height="7.5" rx="1.25" fill="none"/>
+    </g>
+    <text id="O_T_P" data-name="O T P" transform="translate(876.5 388.5)" fill="#6d08df" stroke="#6d08df" stroke-width="0.5" font-size="3" font-family="Poppins-Regular, Poppins" letter-spacing="0.02em"><tspan x="0" y="0">O T P</tspan></text>
+  </g>
+</svg>
